@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(216, 67, 166);
+  }
+  
+  h1 {
+    float: left;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    margin-left: 1in;
+
+}
+h2 {
+    clear: both;
+    text-align: center;
+    margin-top: 1.5in; 
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+#syr {
+    border-radius: 50%;
+  width: 600px;
+}
+
+  img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h3 {
+    clear: both;
+    text-align: center;
+    margin-top: 1.5in; 
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+#web140 {
+text-align: center;
+}
+#taeliz {
+    text-align: center;
+}
+#flickr {
+    text-align: center;
+}
+#cycle {
+    text-align: center;
+}
